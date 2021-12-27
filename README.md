@@ -2,7 +2,7 @@
 A WEB BASED APPLICATION TO DONATE ESSENTIAL TO NEEDY THROUGH NON-GOVERNMENT ORGANIZATION
 
 
-## Technology and Libraries- Javascript, HTML, Google Firebase, Flutter and Dart
+#### Technology and Libraries- Javascript, HTML, Google Firebase, Flutter and Dart
 • Developed a website from scratch using flutter and dart for Frontend that helps people donate basic necessities like 
 food & clothes to all the e-verified NGOs eliminates the chance of any fraudulent activity and gives the donors a sense 
 of satisfaction. The donation form, being the main element, it pops up on the home page & the NGO who picks up the 
